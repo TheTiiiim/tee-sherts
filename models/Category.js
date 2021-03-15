@@ -14,7 +14,7 @@ Category.init(
         freezeTableName: true,
         underscored: true,
         modelName: "category",
-    }
+    },
 );
 
 module.exports = Category;

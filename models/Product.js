@@ -17,7 +17,7 @@ Product.init(
         freezeTableName: true,
         underscored: true,
         modelName: "product",
-    }
+    },
 );
 
 module.exports = Product;
